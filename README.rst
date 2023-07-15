@@ -1,22 +1,15 @@
+# 
+
+This is solved by GPT.
+
+---
+
 ===================
 Screening Interview
 ===================
 
-Welcome to the screening interview of Naive Systems!
-
-This is a program that parses URLs and extracts query parameters.  We prepared
-some code for you to get started.  You can work on any of the following
-operating systems:
-
-- Linux
-- macOS
-- Windows
-
 You may write code conforming to any well-known C standard: C89, C99, or C11.
 Please do not introduce new third-party code.
-
-To complete the screening interview, you should create 3 to 4 git commits
-directly in this repository:
 
 1. Build the program.
 
@@ -46,10 +39,3 @@ directly in this repository:
 
    We intentionally left a few memory errors in main.c.  Try your best to fix
    them!
-
-In the end, please create a git bundle with all of your git commits and send it
-back to the interviewer::
-
-  git bundle create submission.bundle HEAD master
-
-Thanks for taking your time to do this screening interview!
